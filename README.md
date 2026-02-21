@@ -25,4 +25,10 @@ testcase structure
         "value": "213"
     }
 }
+
+There in Testcase the values are encrypted form(binary format) and there we need to decrypt 
+For Example: "2": {
+        "base": "2",
+        "value": "111"
+    }
 <img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/3f742eaf-0280-4438-8d80-6492897427b3" />
